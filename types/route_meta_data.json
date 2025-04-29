@@ -1,0 +1,17 @@
+{
+	"/": [
+		"src/routes/+page.server.ts"
+	],
+	"/chat": [
+		"src/routes/chat/+page.server.ts"
+	],
+	"/guess": [
+		"src/routes/guess/+page.server.ts"
+	],
+	"/matches": [
+		"src/routes/matches/+page.server.ts"
+	],
+	"/players": [
+		"src/routes/players/+page.server.ts"
+	]
+}
